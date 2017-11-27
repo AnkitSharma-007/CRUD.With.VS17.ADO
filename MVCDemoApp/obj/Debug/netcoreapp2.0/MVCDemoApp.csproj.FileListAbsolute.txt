@@ -1,0 +1,11 @@
+C:\Users\ankit\source\repos\MVCDemoApp\MVCDemoApp\bin\Debug\netcoreapp2.0\MVCDemoApp.deps.json
+C:\Users\ankit\source\repos\MVCDemoApp\MVCDemoApp\bin\Debug\netcoreapp2.0\MVCDemoApp.runtimeconfig.json
+C:\Users\ankit\source\repos\MVCDemoApp\MVCDemoApp\bin\Debug\netcoreapp2.0\MVCDemoApp.runtimeconfig.dev.json
+C:\Users\ankit\source\repos\MVCDemoApp\MVCDemoApp\bin\Debug\netcoreapp2.0\MVCDemoApp.dll
+C:\Users\ankit\source\repos\MVCDemoApp\MVCDemoApp\bin\Debug\netcoreapp2.0\MVCDemoApp.pdb
+C:\Users\ankit\source\repos\MVCDemoApp\MVCDemoApp\obj\Debug\netcoreapp2.0\MVCDemoApp.csprojResolveAssemblyReference.cache
+C:\Users\ankit\source\repos\MVCDemoApp\MVCDemoApp\obj\Debug\netcoreapp2.0\MVCDemoApp.csproj.CoreCompileInputs.cache
+C:\Users\ankit\source\repos\MVCDemoApp\MVCDemoApp\obj\Debug\netcoreapp2.0\MVCDemoApp.AssemblyInfoInputs.cache
+C:\Users\ankit\source\repos\MVCDemoApp\MVCDemoApp\obj\Debug\netcoreapp2.0\MVCDemoApp.AssemblyInfo.cs
+C:\Users\ankit\source\repos\MVCDemoApp\MVCDemoApp\obj\Debug\netcoreapp2.0\MVCDemoApp.dll
+C:\Users\ankit\source\repos\MVCDemoApp\MVCDemoApp\obj\Debug\netcoreapp2.0\MVCDemoApp.pdb
